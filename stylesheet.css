@@ -1,0 +1,117 @@
+h1{
+	color:white
+}
+h2{
+	color:white
+} 
+ 
+li{
+	color:white
+}
+p{
+	color:white;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background-image: url("http://p1.pichost.me/i/13/1363744.jpg");
+	background-size: 100%;
+}
+tr{
+	color:white;
+}
+table{
+	text-align: center;
+	border: 4px dashed #B20000;
+	background-color: #8A0000;
+	
+
+}
+
+#header{
+	color:white;
+	text-decoration: none;
+	text-align: left;
+		border-radius: 5px;
+	border: 2px solid #FFFFFF;
+	background-color: #1A1A1A;
+	height: 30px;
+	width: 115px;
+}
+#header:hover {
+ 	color:black;
+	text-decoration: none;
+	text-align: left;
+		border-radius: 5px;
+	border: 2px solid #000000;
+	background-color: #FFFFFF;
+	height: 30px;
+	width: 115px;
+} 
+.id{
+    margin: 0;
+    list-style-type: none;
+
+    position: fixed;
+    bottom: 0px;
+    left: 20px;
+
+
+
+}
+.idd{
+    margin: 0;
+    list-style-type: none;
+
+	position: fixed;
+    bottom: 0px;
+    right: 20px;
+}
+#color{
+	height: 70px;
+    width: 120px;
+    border-color: #003366;
+    background-color: #003366;
+   border-radius: 5px;
+   margin: auto;
+   text-align: center;
+}
+#front{
+	text-align: center;
+}
+#mid{
+	text-align: center;
+	font-size: 26px;
+}
+.evil{
+	border-radius: 100%;
+	
+}
+#nam{
+	text-align: center;
+	font-size:18px
+}
+.class{
+
+	color:red;
+	border:4px;
+
+
+}
+.man{
+	background-color:#666600;
+}
+
+.tri{
+	background-color:#3D5C00;
+}
+.mid{
+	background-color: #003D5C;
+}
+.fim{
+	background-color: #5C005C;
+}
+.fos{
+	background-color: #CC297A;
+}
